@@ -25,7 +25,7 @@ repositories {
 }
 
 dependencies {
-    compile 'nl.psdcompany:duo-navigation-drawer:2.0.7'
+    compile 'nl.psdcompany:duo-navigation-drawer:2.0.8'
 }
 ```
 
@@ -35,7 +35,7 @@ Or Maven:
 <dependency>
   <groupId>nl.psdcompany</groupId>
   <artifactId>duo-navigation-drawer</artifactId>
-  <version>2.0.7</version>
+  <version>2.0.8</version>
   <type>pom</type>
 </dependency>
 ```
@@ -164,12 +164,21 @@ app:marginFactor="0.7"
 ```
 ## Apps using the DuoNavigationDrawer
 
-* Coming soon
+* [Bagels & Beans](https://play.google.com/store/apps/details?id=nl.dtt.bagelsbeans)
+* [Hebban](https://play.google.com/store/apps/details?id=nl.dtt.hebban)
 
-## Developed By [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](http://www.paypal.me/alexanderpot)
+Feel free to apply your app to the list by sending me an email with a link to your app in the play store.
+
+## Developed By
 
 * Alexander Pot - <alexander.dpot@gmail.com>
 
+## Donations
+If you'd like to support DuoNavigationDrawer development, you could make some donations here:
+
+* [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](http://www.paypal.me/alexanderpot)
+
+Thank you very much in advance!
 
 ## License
 
